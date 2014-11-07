@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.allmatchshanghai.Allmatch</string>
+				<string>cn.allmatchshanghai.AllmatchForClient</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>搭配宝SH</string>
+				<string>搭配宝</string>
 			</dict>
 		</dict>
 	</array>
