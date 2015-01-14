@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://app.allmatch.com.cn:9003/ios/Allmatchshanghai.ipa</string>
+					<string>https://app.allmatch.com.cn:9003/ios/AllmatchForClientWaiChu.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.allmatchshanghai.AllmatchForClient</string>
+				<string>cn.allmatchwaichu.Allmatch</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>搭配宝</string>
+				<string>搭配宝(外出)</string>
 			</dict>
 		</dict>
 	</array>
